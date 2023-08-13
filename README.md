@@ -60,7 +60,7 @@ Follow these simple steps to get started with Voyage:
 
 ## Contributing
 
-We welcome contributions from the community to enhance Voyage. To contribute:
+ Contributions from the community to enhance Voyage are welcomed. To contribute:
 
 1. Fork the repository.
 2. Create a new branch for your feature: `git checkout -b feature-name`.
