@@ -57,4 +57,4 @@ We welcome contributions from the community to enhance Voyage. To contribute:
 Have questions, suggestions, or feedback? Feel free to [open an issue](https://github.com/yourusername/voyage-blog/issues) or reach out to us at support@voyageapp.com.
 
 
-[Visit our website]()
+[Visit our website](https://voyage-blog.vercel.app/)
