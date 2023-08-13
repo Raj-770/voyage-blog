@@ -48,15 +48,23 @@ Follow these simple steps to get started with Voyage:
    npm install
    ```
 
-4. **Configure the Environment:** Create a `.env` file in the root directory and provide the necessary environment variables, such as database credentials, API keys, etc.
+4. **Configure the Environment:** Create a `.env` file in the root directory and provide the necessary environment variables, such as database credentials, API keys, etc. The Hygraph API has not been shared for privacy. You can create your own Hygraph account and create a new projects with following models:
 
-5. **Start the Application:** Launch the application by running:
+- Author
+  ![Screenshot 4](screenshots/screenshot-4.png)
+- Categories
+  ![Screenshot 5](screenshots/screenshot-5.png)
+- Posts
+  ![Screenshot 6](screenshots/screenshot-6.png)
+  ![Screenshot 7](screenshots/screenshot-7.png)
+
+6. **Start the Application:** Launch the application by running:
 
    ```bash
    npm run dev
    ```
 
-6. **Access Voyage:** Open your web browser and navigate to `http://localhost:3000` to access the Voyage blog application.
+7. **Access Voyage:** Open your web browser and navigate to `http://localhost:3000` to access the Voyage blog application.
 
 ## Contributing
 
