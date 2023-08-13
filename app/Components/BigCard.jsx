@@ -24,7 +24,7 @@ const BigCard = ({ data }) => {
             {categories[0].name}
           </Link>
         </span>
-        <div className="flex w-full">
+        <div className="flex w-full justify-center items-center">
           <Link
             href={`/post/${slug}`}
             className="font-primary text-4xl text-center font-semibold hover:underline capitalize"
