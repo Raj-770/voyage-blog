@@ -5,12 +5,15 @@ Welcome to Voyage, a simple and minimalistic blog web application powered by Hyg
 ## Screenshots
 # Screenshot 1
 - Explore the Voyage homepage with its elegant design.
+
 ![Screenshot 1](screenshots/screenshot-1.png)
 
 
 # Screenshot 2
 - Readers can enjoy an immersive reading experience with a focus on content.
+
 ![Screenshot 1](screenshots/screenshot-2.png)
+
 ![Screenshot 1](screenshots/screenshot-3.png)
 
 
