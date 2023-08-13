@@ -1,34 +1,60 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Voyage Blog Web Application
+
+Welcome to Voyage, a simple and minimalistic blog web application powered by Hygraph CMS. Voyage combines elegant design with effortless functionality to provide an immersive reading experience. Whether you're a passionate writer, an avid reader, or just looking for a tranquil space to share your thoughts, Voyage is your perfect companion.
+
+## Features
+
+- **Clean and Beautiful Design:** Voyage boasts a visually pleasing and user-friendly design, ensuring an immersive reading experience on all devices.
+
+- **Reader-Friendly Layout:** Each blog post is presented in a reader-friendly format, optimizing readability and comfort.
+
+- **Non-Responsive Layout:** Please note that the current version of Voyage does not have a fully responsive layout. It's recommended to access the application on a desktop or laptop for the best experience.
 
 ## Getting Started
 
-First, run the development server:
+Follow these simple steps to get started with Voyage:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+1. **Clone the Repository:** Begin by cloning this repository to your local machine using the following command:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+   ```bash
+   git clone https://github.com/yourusername/voyage-blog.git
+   ```
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+2. **Navigate to the Project Directory:** Move into the project directory:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+   ```bash
+   cd voyage-blog
+   ```
 
-## Learn More
+3. **Install Dependencies:** Install the required dependencies by running:
 
-To learn more about Next.js, take a look at the following resources:
+   ```bash
+   npm install
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4. **Configure the Environment:** Create a `.env` file in the root directory and provide the necessary environment variables, such as database credentials, API keys, etc.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+5. **Start the Application:** Launch the application by running:
 
-## Deploy on Vercel
+   ```bash
+   npm start
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+6. **Access Voyage:** Open your web browser and navigate to `http://localhost:3000` to access the Voyage blog application.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Contributing
+
+We welcome contributions from the community to enhance Voyage. To contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature: `git checkout -b feature-name`.
+3. Make your modifications and commit them: `git commit -m "Add feature"`.
+4. Push to your forked repository: `git push origin feature-name`.
+5. Create a pull request, describing your feature and changes.
+
+## Feedback and Support
+
+Have questions, suggestions, or feedback? Feel free to [open an issue](https://github.com/yourusername/voyage-blog/issues) or reach out to us at support@voyageapp.com.
+
+
+[Visit our website]()
