@@ -53,7 +53,7 @@ Follow these simple steps to get started with Voyage:
 5. **Start the Application:** Launch the application by running:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 6. **Access Voyage:** Open your web browser and navigate to `http://localhost:3000` to access the Voyage blog application.
