@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base{
+    @font-face {
+        font-family: "OpenSauceOne";
+        font-style: italic;
+        src: url('/public/fonts/OpenSauceOne-SemiBoldItalic.ttf') format('ttf');
+    }
+}
+
+.text-segment {
+    background-color: white;
+    display: inline-block;
+    padding: 2px;
+    border-radius: 4px;
+  }
