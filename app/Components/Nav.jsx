@@ -7,7 +7,7 @@ import React from "react";
 
 const Nav = () => {
   // List of Categories for Navbar
-  const links = ["Tech", "Science", "Entertainment", "Music"];
+  const links = ["tech", "science", "entertainment", "music"];
   return (
     <nav className="fixed w-full bg-white shadow-md right-0 left-0 px-10">
       {/* Navbar left part */}
@@ -21,17 +21,10 @@ const Nav = () => {
 
           {/* Looping through the links list and displaying it on the navbar */}
           {links.map((link, index) => (
-            <Link key={index} href="/" className="flex gap-2">
-              <p className="font-primary ">{link}</p>
+            <Link key={index} href={`/category/${link}`} className="flex gap-3">
+              <p className="font-primary capitalize">{link}</p>
             </Link>
           ))}
-        </div>
-
-        {/* Navbar right part */}
-        <div className="flex flex-row items-center">
-          <button className="rounded-full border-black border-[1.5px] hover:bg-black hover:text-white font-primary  h-10 w-20">
-            Menu
-          </button>
         </div>
       </div>
     </nav>

@@ -121,7 +121,7 @@ const page = async ({ params }) => {
   };
 
   return (
-    <div className="pt-32 w-full max-h-screen flex flex-col items-center gap-3">
+    <div className="pt-32 w-full flex flex-col items-center gap-3">
       <h2 className="font-primary font-medium text-md text-gray-800 uppercase">
         {post.categories[0].name}
       </h2>

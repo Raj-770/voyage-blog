@@ -17,9 +17,12 @@ const BigCard = ({ data }) => {
       </Link>
       <div className="flex flex-col justify-center items-center h-1/5">
         <span>
-          <h2 className="font-primary text-sm mb-3 text-gray-500 text-light hover:underline uppercase">
+          <Link
+            href={`/category/${categories[0].slug}`}
+            className="font-primary text-sm mb-3 text-gray-500 text-light hover:underline uppercase"
+          >
             {categories[0].name}
-          </h2>
+          </Link>
         </span>
         <div className="flex w-full">
           <Link

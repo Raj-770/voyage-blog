@@ -15,9 +15,12 @@ const SmallCard = ({ data }) => {
 
       <div className="flex flex-col justify-center gap-4 items-center h-2/5">
         <span className="text-gray-600">
-          <h2 className="font-primary font-extralight text-sm hover:underline uppercase">
+          <Link
+            href={`/category/${categories[0].slug}`}
+            className="font-primary font-extralight text-sm hover:underline uppercase"
+          >
             {categories[0].name}
-          </h2>
+          </Link>
         </span>
         <div className="flex justify-center items-center">
           <Link

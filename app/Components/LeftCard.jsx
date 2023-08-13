@@ -3,14 +3,18 @@ import Link from "next/link";
 const LeftCard = ({ data }) => {
   const { featuredImage, excerpt, categories, title, slug, author } = data;
   return (
-    <div className="flex flex-row w-full h-[90vh] items-center">
+    <div className="flex flex-row w-full h-[90vh] items-center ">
       <div className="w-3/6 h-[70vh]">
         <div className="flex flex-col h-[70vh] mr-[160px]">
           <div className="flex items-end w-full h-1.5 ">
             <p className="font-primary text-md text-gray-500">
-              <span className="hover:underline uppercase" role="button">
+              <Link
+                href={`/category/${categories[0].slug}`}
+                className="hover:underline uppercase"
+                role="button"
+              >
                 {categories[0].name}
-              </span>{" "}
+              </Link>{" "}
               &nbsp; | &nbsp;{" "}
               <span className="hover:underline uppercase" role="button">
                 BY {author.name}

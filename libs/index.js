@@ -15,6 +15,7 @@ export const getAllPosts = await axios({
         }
         categories {
           name
+          slug
         }
         featuredImage {
           url
@@ -42,6 +43,7 @@ export const getTopStories = await axios({
           }
           categories {
             name
+            slug
           }
           featuredImage {
             url
