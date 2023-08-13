@@ -3,13 +3,13 @@
 Welcome to Voyage, a simple and minimalistic blog web application powered by Hygraph CMS. Voyage combines elegant design with effortless functionality to provide an immersive reading experience. Whether you're a passionate writer, an avid reader, or just looking for a tranquil space to share your thoughts, Voyage is your perfect companion.
 
 ## Screenshots
-# Screenshot 1
+### Screenshot 1
 - Explore the Voyage homepage with its elegant design.
 
 ![Screenshot 1](screenshots/screenshot-1.png)
 
 
-# Screenshot 2
+### Screenshot 2
 - Readers can enjoy an immersive reading experience with a focus on content.
 
 ![Screenshot 1](screenshots/screenshot-2.png)
