@@ -1,6 +1,6 @@
 import axios from "axios";
-import SmallCard from "./Components/SmallCard";
 import BigCard from "./Components/BigCard";
+import SmallCard from "./Components/SmallCard";
 import RightCard from "./Components/RightCard";
 import { getAllPosts, getTopStories } from "../libs/index";
 import LeftCard from "./Components/LeftCard";
