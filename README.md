@@ -70,7 +70,7 @@ We welcome contributions from the community to enhance Voyage. To contribute:
 
 ## Feedback and Support
 
-Have questions, suggestions, or feedback? Feel free to [open an issue](https://github.com/yourusername/voyage-blog/issues) or reach out to us at support@voyageapp.com.
+Have questions, suggestions, or feedback? Feel free to [open an issue](https://github.com/yourusername/voyage-blog/issues) or reach out to us at rajkumarpambhar770@gmail.com.
 
 
 [Visit our website](https://voyage-blog.vercel.app/)
