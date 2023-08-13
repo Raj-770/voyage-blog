@@ -2,6 +2,22 @@
 
 Welcome to Voyage, a simple and minimalistic blog web application powered by Hygraph CMS. Voyage combines elegant design with effortless functionality to provide an immersive reading experience. Whether you're a passionate writer, an avid reader, or just looking for a tranquil space to share your thoughts, Voyage is your perfect companion.
 
+## Screenshots
+### Screenshot 1
+- Explore the Voyage homepage with its elegant design.
+
+![Screenshot 1](screenshots/screenshot-1.png)
+
+
+### Screenshot 2
+- Readers can enjoy an immersive reading experience with a focus on content.
+
+![Screenshot 1](screenshots/screenshot-2.png)
+
+![Screenshot 1](screenshots/screenshot-3.png)
+
+
+
 ## Features
 
 - **Clean and Beautiful Design:** Voyage boasts a visually pleasing and user-friendly design, ensuring an immersive reading experience on all devices.
@@ -54,7 +70,7 @@ We welcome contributions from the community to enhance Voyage. To contribute:
 
 ## Feedback and Support
 
-Have questions, suggestions, or feedback? Feel free to [open an issue](https://github.com/yourusername/voyage-blog/issues) or reach out to us at support@voyageapp.com.
+Have questions, suggestions, or feedback? Feel free to [open an issue](https://github.com/Raj-770/voyage-blog/issues) or reach out to us at rajkumarpambhar770@gmail.com.
 
 
 [Visit our website](https://voyage-blog.vercel.app/)
