@@ -1,7 +1,7 @@
 import axios from "axios";
 
-import RightCard from "@/app/Components/RightCard";
-import LeftCard from "@/app/Components/LeftCard";
+import RightCard from "@/Components/RightCard";
+import LeftCard from "@/Components/LeftCard";
 
 const graphqlAPI = process.env.NEXT_PUBLIC_GRAPHCMS_ENDPOINT;
 
